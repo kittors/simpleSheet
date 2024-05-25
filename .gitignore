@@ -3,6 +3,7 @@ node_modules
 package-lock.json
 yarn.lock
 dist
+out
 docs/.vuepress/dist
 src/expendPlugins/print/print.js
 
